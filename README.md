@@ -87,3 +87,10 @@ requirements.txt
 
 Built as part of the Meta Back-End Developer Professional Certificate (Coursera).
 Restaurant photography is part of the course materials / Little Lemon brand assets.
+
+## Related Projects
+
+- Live portfolio site: https://dk55432.github.io/react-dev-portfolio/
+- Developer portfolio (source): https://github.com/dk55432/react-dev-portfolio
+- Restaurant API: https://github.com/dk55432/django-restaurant-api
+- Flutter time tracker: https://github.com/dk55432/flutter-time-tracker
